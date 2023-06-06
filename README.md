@@ -104,6 +104,9 @@ If one class wants to call the logic of a second class then they first-class nee
 
 # cohesion :
 The term cohesion is used to indicate the degree to which a class has a single, well-focused responsibility. Cohesion is a measure of how the methods of a class or a module are meaningfully and strongly related and how focused they are in providing a well-defined purpose to the system.
+
+
+
 Refernces :
 https://medium.com/edureka/object-oriented-programming-b29cfd50eca0
 https://rameshfadatare.medium.com/oops-concepts-in-java-eb2ad6f53b69
