@@ -66,8 +66,8 @@ Association is a relation between two separate classes that establish through th
 In Object-Oriented programming, an Object communicates to other Objects to use functionality and services provided by that object.
 There are two forms of association
 
-Composition
-Aggregation
+1) Composition
+2) Aggregation
 
 # Composition :
 
